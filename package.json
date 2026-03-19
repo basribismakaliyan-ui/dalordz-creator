@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "^9.0.0",
-    "@next/swc-win32-x64-msvc": "^16.2.0",
+
     "cheerio": "^1.0.0",
     "imapflow": "^1.0.0",
     "mailparser": "^3.7.0",
